@@ -1,12 +1,25 @@
+:source-highlighter: pygments
 = Goodies
 
 == Giveaway rules
 
 * **One Pull-request per goodie**
-* Choose your goodie and add your github name (like link:https://github.com/rlespinasse[@rlespinasse]) in the list,
+* Choose your goodie and add your github name in the list (like link:https://github.com/rlespinasse[@rlespinasse]),
+
+[source,asciidoc]
+----
+* link:https://github.com/rlespinasse[@rlespinasse]
+----
+
 * If your pull-request is merged, You have the goodie,
-* Now, you must find me at meetups or at work (I don't send by mail)
+* Now, you must find me at meetups or at work.
 * When you have your goodie, Enjoy your life :-) !
+
+== Giveaway Cost
+
+* **Nothing**
+* You can talk to me, if you want
+* You can give me your curriculum vitae, if you want join me at link:https://github.com/Sfeir[@Sfeir]
 
 == Current giveaway
 
