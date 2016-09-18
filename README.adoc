@@ -1,4 +1,3 @@
-:source-highlighter: pygments
 = Goodies
 
 == Giveaway rules
@@ -45,6 +44,8 @@
 |link:stickers/jenkins-cloudbees.adoc[Jenkins Cloudbees]
 |link:stickers/jenkins-cloudbees-gear.adoc[Jenkins Cloudbees Gear]
 |link:stickers/logmatic.adoc[Logmatic]
+|
+|
 |===
 
 === Temporary tattoos
@@ -66,4 +67,8 @@
 |link:stickers/github-oktobercat.adoc[Github Oktobercat]
 |link:stickers/github-jetpacktocat.adoc[Github Jetpacktocat]
 |link:stickers/github-kimonotocat.adoc[Github Kimonotocat]
+|
+|
+|
+|
 |===
