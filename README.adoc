@@ -26,6 +26,11 @@
 
 [cols="a,a,a,a,a", width="100%"]
 |===
+|link:stickers/clevercloud-departmentofitautomation.adoc[Clever Cloud Department of IT automation]
+|link:stickers/clevercloud-hostingpowers.adoc[Clever Cloud Hosting Powers]
+|link:stickers/clevercloud-lecloudesuzerain.adoc[Clever Cloud Le Cloude Suzerain]
+|link:stickers/clevercloud-nevergonnaletyoudown.adoc[Clever Cloud Never Gonna Let You Down]
+|link:stickers/clevercloud-youshallpaas.adoc[Clever Cloud You Shall PAAS]
 |link:stickers/git.adoc[Git]
 |link:stickers/github-atom-mission.adoc[Github Atom Mission]
 |link:stickers/github-atom-text-clear.adoc[Github Atom (+text, clear)]
