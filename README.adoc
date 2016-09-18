@@ -21,49 +21,49 @@
 * You can talk to me, if you want
 * You can give me your curriculum vitae, if you want join me at link:https://github.com/Sfeir[@Sfeir]
 
-== Current giveaway
+== Goodies list
 
 === Stickers
 
-==== Git
-* link:stickers/git.adoc[Git]
-
-==== Github
-* link:stickers/github-atom-mission.adoc[Atom Mission]
-* link:stickers/github-atom-text-clear.adoc[Atom + text (clear)]
-* link:stickers/github-electron-clear.adoc[Electron (clear)]
-* link:stickers/github-electron.adoc[Electron]
-* link:stickers/github-femalecodertocat.adoc[Femalecodertocat]
-* link:stickers/github-lgbt.adoc[LGBT]
-* link:stickers/github-mountietocat.adoc[Mountietocat]
-* link:stickers/github-octocat-with-pencil.adoc[Octocat with pencil]
-* link:stickers/github-octocat.adoc[Octocat]
-* link:stickers/github-robotocat.adoc[Robotocat]
-* link:stickers/github-saritocat.adoc[Saritocat]
-* link:stickers/github-yaktocat.adoc[Yaktocat]
-
-==== Jenkins
-* link:stickers/jenkins-classic.adoc[Classic Jenkins]
-* link:stickers/jenkins-ninja.adoc[Ninja Jenkins]
-* link:stickers/jenkins-cloudbees.adoc[Cloudbees Jenkins]
-* link:stickers/jenkins-cloudbees-gear.adoc[Cloudbees Gear Jenkins]
-
-==== Logmatic
-* link:stickers/logmatic.adoc[Logmatic]
+[cols="a,a,a,a,a", width="100%"]
+|===
+|link:stickers/git.adoc[Git]
+|link:stickers/github-atom-mission.adoc[Github Atom Mission]
+|link:stickers/github-atom-text-clear.adoc[Github Atom (+text, clear)]
+|link:stickers/github-electron-clear.adoc[Github Electron (clear)]
+|link:stickers/github-electron.adoc[Github Electron]
+|link:stickers/github-femalecodertocat.adoc[Github Femalecodertocat]
+|link:stickers/github-lgbt.adoc[Github LGBT]
+|link:stickers/github-mountietocat.adoc[Github Mountietocat]
+|link:stickers/github-octocat-with-pencil.adoc[Github Octocat with pencil]
+|link:stickers/github-octocat.adoc[Github Octocat]
+|link:stickers/github-robotocat.adoc[Github Robotocat]
+|link:stickers/github-saritocat.adoc[Github Saritocat]
+|link:stickers/github-yaktocat.adoc[Github Yaktocat]
+|link:stickers/jenkins-classic.adoc[Jenkins Classic]
+|link:stickers/jenkins-ninja.adoc[Jenkins Ninja]
+|link:stickers/jenkins-cloudbees.adoc[Jenkins Cloudbees]
+|link:stickers/jenkins-cloudbees-gear.adoc[Jenkins Cloudbees Gear]
+|link:stickers/logmatic.adoc[Logmatic]
+|===
 
 === Temporary tattoos
 
-==== Elastic
-* link:tattoos/elastic.adoc[Elastic]
+[cols="a", width="100%"]
+|===
+|link:tattoos/elastic.adoc[Elastic]
+|===
 
-== Already Gone
+== Unavailable goodies list
 
 === Stickers
 
-==== Github
-* link:stickers/github-atom-clear.adoc[Atom (clear)]
-* link:stickers/github-atom.adoc[Atom]
-* link:stickers/github-electron-text.adoc[Electron + text]
-* link:stickers/github-oktobercat.adoc[Oktobercat]
-* link:stickers/github-jetpacktocat.adoc[Jetpacktocat]
-* link:stickers/github-kimonotocat.adoc[Kimonotocat]
+[cols="a,a,a,a,a", width="100%"]
+|===
+|link:stickers/github-atom-clear.adoc[Github Atom (clear)]
+|link:stickers/github-atom.adoc[Github Atom]
+|link:stickers/github-electron-text.adoc[Github Electron (+text)]
+|link:stickers/github-oktobercat.adoc[Github Oktobercat]
+|link:stickers/github-jetpacktocat.adoc[Github Jetpacktocat]
+|link:stickers/github-kimonotocat.adoc[Github Kimonotocat]
+|===
