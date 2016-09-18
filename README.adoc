@@ -32,6 +32,10 @@
 |link:stickers/clevercloud-nevergonnaletyoudown.adoc[Clever Cloud Never Gonna Let You Down]
 |link:stickers/clevercloud-youshallpaas.adoc[Clever Cloud You Shall PAAS]
 |link:stickers/git.adoc[Git]
+|
+|
+|
+|
 |link:stickers/github-atom-mission.adoc[Github Atom Mission]
 |link:stickers/github-atom-text-clear.adoc[Github Atom (+text, clear)]
 |link:stickers/github-electron-clear.adoc[Github Electron (clear)]
@@ -44,11 +48,17 @@
 |link:stickers/github-robotocat.adoc[Github Robotocat]
 |link:stickers/github-saritocat.adoc[Github Saritocat]
 |link:stickers/github-yaktocat.adoc[Github Yaktocat]
+|
+|
+|
 |link:stickers/jenkins-classic.adoc[Jenkins Classic]
 |link:stickers/jenkins-ninja.adoc[Jenkins Ninja]
 |link:stickers/jenkins-cloudbees.adoc[Jenkins Cloudbees]
 |link:stickers/jenkins-cloudbees-gear.adoc[Jenkins Cloudbees Gear]
+|
 |link:stickers/logmatic.adoc[Logmatic]
+|
+|
 |
 |
 |===
