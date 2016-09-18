@@ -12,6 +12,9 @@
 
 === Stickers
 
+==== Git
+* link:stickers/git.adoc[Git]
+
 ==== Jenkins
 * link:stickers/jenkins-classic.adoc[Classic Jenkins]
 * link:stickers/jenkins-ninja.adoc[Ninja Jenkins]
