@@ -7,4 +7,4 @@ image::jenkins-ninja.png[]
 == Giveaway to
 
 * link:https://github.com/lborie[@lborie]
-* empty slot
+* link:https://github.com/elongeau[@elongeau]
