@@ -20,3 +20,6 @@
 * link:stickers/jenkins-ninja.adoc[Ninja Jenkins]
 * link:stickers/jenkins-cloudbees.adoc[Cloudbees Jenkins]
 * link:stickers/jenkins-cloudbees-gear.adoc[Cloudbees Gear Jenkins]
+
+==== Logmatic
+* link:stickers/logmatic.adoc[Logmatic]
