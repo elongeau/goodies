@@ -1,0 +1,9 @@
+= Octocat
+
+== View
+
+image::github-octocat.png[]
+
+== Giveaway to
+
+* Empty spot

@@ -1,0 +1,9 @@
+= Atom (Clear)
+
+== View
+
+image::github-atom-clear.jpg[]
+
+== Giveaway to
+
+* link:https://github.com/allienna[@allienna]

@@ -1,0 +1,9 @@
+= Electron + text
+
+== View
+
+image::github-electron-text.jpg[]
+
+== Giveaway to
+
+* link:https://github.com/PonyLux[@PonyLux]

@@ -1,0 +1,9 @@
+= Electron (Clear)
+
+== View
+
+image::github-electron-clear.jpg[]
+
+== Giveaway to
+
+* Empty slot

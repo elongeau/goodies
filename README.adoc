@@ -15,6 +15,20 @@
 ==== Git
 * link:stickers/git.adoc[Git]
 
+==== Github
+* link:stickers/github-atom-mission.adoc[Atom Mission]
+* link:stickers/github-atom-text-clear.adoc[Atom + text (clear)]
+* link:stickers/github-electron-clear.adoc[Electron (clear)]
+* link:stickers/github-electron.adoc[Electron]
+* link:stickers/github-femalecodertocat.adoc[Femalecodertocat]
+* link:stickers/github-lgbt.adoc[LGBT]
+* link:stickers/github-mountietocat.adoc[Mountietocat]
+* link:stickers/github-octocat-with-pencil.adoc[Octocat with pencil]
+* link:stickers/github-octocat.adoc[Octocat]
+* link:stickers/github-robotocat.adoc[Robotocat]
+* link:stickers/github-saritocat.adoc[Saritocat]
+* link:stickers/github-yaktocat.adoc[Yaktocat]
+
 ==== Jenkins
 * link:stickers/jenkins-classic.adoc[Classic Jenkins]
 * link:stickers/jenkins-ninja.adoc[Ninja Jenkins]
@@ -23,3 +37,15 @@
 
 ==== Logmatic
 * link:stickers/logmatic.adoc[Logmatic]
+
+== Already Gone
+
+=== Stickers
+
+==== Github
+* link:stickers/github-atom-clear.adoc[Atom (clear)]
+* link:stickers/github-atom.adoc[Atom]
+* link:stickers/github-electron-text.adoc[Electron + text]
+* link:stickers/github-oktobercat.adoc[Oktobercat]
+* link:stickers/github-jetpacktocat.adoc[Jetpacktocat]
+* link:stickers/github-kimonotocat.adoc[Kimonotocat]

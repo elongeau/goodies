@@ -1,0 +1,9 @@
+= Yaktocat
+
+== View
+
+image::github-yaktocat.png[]
+
+== Giveaway to
+
+* Empty spot

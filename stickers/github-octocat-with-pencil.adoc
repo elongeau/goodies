@@ -1,0 +1,9 @@
+= Octocat with pencil
+
+== View
+
+image::github-octocat-with-pencil.jpg[]
+
+== Giveaway to
+
+* Empty spot

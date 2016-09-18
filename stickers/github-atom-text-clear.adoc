@@ -1,0 +1,9 @@
+= Atom + Text (Clear)
+
+== View
+
+image::github-atom-text-clear.jpg[]
+
+== Giveaway to
+
+* Empty slot
