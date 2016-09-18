@@ -6,5 +6,5 @@ image::github-robotocat.png[]
 
 == Giveaway to
 
-* Empty slot
+* link:https://github.com/elongeau[@elongeau]
 * Empty slot
