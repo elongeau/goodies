@@ -1,0 +1,10 @@
+= Ninja Jenkins
+
+== View
+
+image::jenkins-ninja.svg[]
+
+== Giveaway to
+
+* link:https://github.com/lborie[@lborie]
+* empty slot

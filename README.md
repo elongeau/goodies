@@ -1,2 +1,0 @@
-# goodies
-Goodies giveaway

@@ -1,0 +1,10 @@
+= Cloudbees Gear Jenkins
+
+== View
+
+image::jenkins-cloudbees-gear.jpg[]
+
+== Giveaway to
+
+* empty slot
+* empty slot

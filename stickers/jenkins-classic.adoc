@@ -1,0 +1,9 @@
+= Classic Jenkins
+
+== View
+
+image::jenkins-classic.png[]
+
+== Giveaway to
+
+* empty slot

@@ -1,0 +1,9 @@
+= Cloudbees Jenkins
+
+== View
+
+image::jenkins-cloudbees.jpg[]
+
+== Giveaway to
+
+* empty slot

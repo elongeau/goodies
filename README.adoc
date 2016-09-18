@@ -1,0 +1,19 @@
+= Goodies
+
+== Giveaway rules
+
+* **One Pull-request per goodie**
+* Choose your goodie and add your github name (like link:https://github.com/rlespinasse[@rlespinasse]) in the list,
+* If your pull-request is merged, You have the goodie,
+* Now, you must find me at meetups or at work (I don't send by mail)
+* When you have your goodie, Enjoy your life :-) !
+
+== Current giveaway
+
+=== Stickers
+
+==== Jenkins
+* link:stickers/jenkins-classic.adoc[Classic Jenkins]
+* link:stickers/jenkins-ninja.adoc[Ninja Jenkins]
+* link:stickers/jenkins-cloudbees.adoc[Cloudbees Jenkins]
+* link:stickers/jenkins-cloudbees-gear.adoc[Cloudbees Gear Jenkins]
