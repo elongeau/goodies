@@ -6,4 +6,4 @@ image::github-yaktocat.png[]
 
 == Giveaway to
 
-* Empty spot
+* link:https://github.com/elongeau[@elongeau]
