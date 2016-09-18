@@ -2,7 +2,7 @@
 
 == View
 
-image::jenkins-ninja.svg[]
+image::jenkins-ninja.png[]
 
 == Giveaway to
 
