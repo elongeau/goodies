@@ -2,7 +2,7 @@
 
 == View
 
-image::elastic-elasticsearch.png[]
+image::elastic-elasticsearch.jpg[]
 
 == Giveaway to
 

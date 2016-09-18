@@ -2,7 +2,7 @@
 
 == View
 
-image::elastic-cloud.png[]
+image::elastic-cloud.jpg[]
 
 == Giveaway to
 

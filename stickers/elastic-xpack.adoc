@@ -2,7 +2,7 @@
 
 == View
 
-image::elastic-xpack.png[]
+image::elastic-xpack.jpg[]
 
 == Giveaway to
 

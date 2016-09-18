@@ -2,7 +2,7 @@
 
 == View
 
-image::elastic-logstash.png[]
+image::elastic-logstash.jpg[]
 
 == Giveaway to
 
