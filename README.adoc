@@ -31,6 +31,16 @@
 |link:stickers/clevercloud-lecloudesuzerain.adoc[Clever Cloud Le Cloude Suzerain]
 |link:stickers/clevercloud-nevergonnaletyoudown.adoc[Clever Cloud Never Gonna Let You Down]
 |link:stickers/clevercloud-youshallpaas.adoc[Clever Cloud You Shall PAAS]
+|link:stickers/elastic-cloud.adoc[Elastic Cloud]
+|link:stickers/elastic-color.adoc[Elastic (color)]
+|link:stickers/elastic-elasticsearch.adoc[Elastic Elasticsearch]
+|link:stickers/elastic-kibana.adoc[Elastic Kibana]
+|link:stickers/elastic-logstash.adoc[Elastic Logstash]
+|link:stickers/elastic-text-white.adoc[Elastic (+text, no color)]
+|link:stickers/elastic-white.adoc[Elastic (no color)]
+|link:stickers/elastic-xpack.adoc[Elastic X-Pack]
+|
+|
 |link:stickers/git.adoc[Git]
 |
 |

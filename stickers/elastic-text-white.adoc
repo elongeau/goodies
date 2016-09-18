@@ -1,0 +1,12 @@
+= Elastic (+text, no color)
+
+== View
+
+image::elastic-text-white.png[]
+
+== Giveaway to
+
+* Empty spot
+* Empty spot
+* Empty spot
+* Empty spot

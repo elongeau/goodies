@@ -1,0 +1,13 @@
+= Elastic Kibana
+
+== View
+
+image::elastic-kibana.png[]
+
+== Giveaway to
+
+* Empty spot
+* Empty spot
+* Empty spot
+* Empty spot
+* Empty spot

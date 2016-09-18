@@ -1,0 +1,11 @@
+= Elastic Cloud
+
+== View
+
+image::elastic-cloud.png[]
+
+== Giveaway to
+
+* Empty spot
+* Empty spot
+* Empty spot
