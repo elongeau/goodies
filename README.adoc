@@ -38,6 +38,11 @@
 ==== Logmatic
 * link:stickers/logmatic.adoc[Logmatic]
 
+=== Temporary tattoos
+
+==== Elastic
+* link:tattoos/elastic.adoc[Elastic]
+
 == Already Gone
 
 === Stickers

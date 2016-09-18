@@ -1,0 +1,10 @@
+= Elastic
+
+== View
+
+image::elastic.png[]
+
+== Giveaway to
+
+* Empty spot
+* Empty spot
